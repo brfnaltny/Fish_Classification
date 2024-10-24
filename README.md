@@ -54,3 +54,7 @@ Düğüm sayısı
 Dropout oranı
 
 Optimizer (optimizasyon algoritması)
+
+# Kaggle’daki Notebook Linki
+https://www.kaggle.com/code/berfinaltny/fish-classification
+
